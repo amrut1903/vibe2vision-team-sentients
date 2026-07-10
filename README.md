@@ -1,5 +1,8 @@
 # ArthArohi — ElevateHer (Track 3)
 
+##Live Link
+https://vision-empower-portal.lovable.app
+
 ## The Idea
 
 - Most "empowerment" platforms are content dumps — course links, scheme lists, articles — the same catalogue for every visitor.
@@ -105,3 +108,15 @@
 **Known scope decisions (deliberate, not gaps):**
 - No real SMS/WhatsApp bot, no live stock trading data or advice, no real payment integration — named explicitly as future roadmap rather than built partially.
 - Course completion tracking is self-paced (user marks videos watched) rather than verified watch-time, which we've been upfront about rather than overselling as automatic detection.
+
+
+##Screenshots
+<img width="1901" height="1078" alt="Screenshot 2026-07-11 003859" src="https://github.com/user-attachments/assets/1daf0830-8e6e-4945-9dc1-d5dc3c26e731" />
+<img width="1901" height="1078" alt="Screenshot 2026-07-11 003955" src="https://github.com/user-attachments/assets/2b459a12-2d1a-4fc2-9df7-f19f47e880e9" />
+<img width="1901" height="1075" alt="Screenshot 2026-07-11 003940" src="https://github.com/user-attachments/assets/11ee4e4d-597f-4e6f-bba3-51dc397eefb7" />
+<img width="1900" height="1078" alt="Screenshot 2026-07-11 003932" src="https://github.com/user-attachments/assets/6c3364de-2917-4335-9cae-fb1b0d70ae85" />
+<img width="1902" height="1078" alt="Screenshot 2026-07-11 003919" src="https://github.com/user-attachments/assets/c5c7dfb9-9f67-4582-8c4c-96619767f052" />
+<img width="1900" height="1078" alt="Screenshot 2026-07-11 003909" src="https://github.com/user-attachments/assets/9fb35b6e-c1b0-40cc-8339-19bcb32495e7" />
+
+
+
